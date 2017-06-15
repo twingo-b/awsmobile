@@ -1,0 +1,24 @@
+{
+  "name": "awsmobile",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/twingo-b/awsmobile.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/twingo-b/awsmobile/issues"
+  },
+  "homepage": "https://github.com/twingo-b/awsmobile#readme",
+  "devDependencies": {
+    "aws-sdk": "^2.70.0",
+    "babel-cli": "^6.24.1",
+    "babel-preset-env": "^1.5.2"
+  }
+}
