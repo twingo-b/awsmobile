@@ -19,5 +19,5 @@ var res = s3.getObject(s3params, function(err, res){
     }else {
         writeStream.write(res.Body);
     }
-})
+});
 
